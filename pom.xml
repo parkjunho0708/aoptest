@@ -9,7 +9,7 @@
 	<!-- source는 다 UTF-8로 컴파일된다는 것을 알려주는 property -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<org.springframework-version>4.3.24.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.22.RELEASE</org.springframework-version>
 	</properties>
 
 	<!-- 라이브러리의 존재 유무를 알려주는 것 -->
